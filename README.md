@@ -1,0 +1,2 @@
+# YoloCoin
+YOLO
